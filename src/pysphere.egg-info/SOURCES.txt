@@ -1,0 +1,7 @@
+setup.py
+src/pysphere.egg-info/PKG-INFO
+src/pysphere.egg-info/SOURCES.txt
+src/pysphere.egg-info/dependency_links.txt
+src/pysphere.egg-info/entry_points.txt
+src/pysphere.egg-info/top_level.txt
+tests/test_functions.py
